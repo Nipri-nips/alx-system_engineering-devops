@@ -2,7 +2,7 @@ PROJECT NAME
 # 0x06. Regular expression
 
 AUTHOR DETAILS:
-Karlie Moyo
+Timi Ogionwo
 
 PROJECT DESCRIPTION:
 
