@@ -4,11 +4,11 @@ Project Name
 
 Author's Details.
 
-Name: Karlie Moyo
+Name: Timi Ogionwo
 
-Email: karlieemoyo@gmail.com
+Email: tiii.williams84@gmail.com
 
-Tel: +27 844775229
+Tel: +234 8037222584
 
 Requirements
 Bash Scripts
@@ -76,4 +76,4 @@ Learn how to create SSH keys. What is the advantage of using #!/usr/bin/env bash
 
 Collaborate
 
-To collaborate, reach me through my email address Karlieemoyo@gmail.com
+To collaborate, reach me through my email address tiiiwilliams84@gmail.com
